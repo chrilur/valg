@@ -25,9 +25,12 @@ Eks: get.alle.år("Bergen", "Arbeiderpartiet")
 ### styrke
 Bruker get.oppsl og beregner differansen mellom partiets oppslutning nasjonalt og lokalt, dets "styrke" lokalt.
 
-Eks: 
-```styrke("1977", "Bømlo", "Kristelig")
+Eks: styrke("1977", "Bømlo", "Kristelig")
+
+```
       kommune                parti stemmer    % styrke
-1: 1219 Bømlo Kristelig Folkeparti    2148 45.2   35.5```
+1: 1219 Bømlo Kristelig Folkeparti    2148 45.2   35.5
+
+```
 
 KrF på Bømlo lå 35.5 prosentpoeng over landsgjennomsnittet i 1977.
